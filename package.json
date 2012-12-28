@@ -22,7 +22,8 @@
     },
     "dependencies": {
       "xml2js": "latest",
-      "xmlbuilder": "latest"
+      "xmlbuilder": "latest",
+      "buffertools": "latest"
     },
     "optionalDependencies": {
       "libxmljs": "latest"
