@@ -37,7 +37,7 @@
     },
     "repository": {
         "type" : "git",
-        "url": "git://github.com/aws/aws-sdk-js"
+        "url": "git://github.com/deanmao/aws-sdk-js"
     },
    "bugs" : {
         "url" : "http://github.com/aws/aws-sdk-js/issues",
